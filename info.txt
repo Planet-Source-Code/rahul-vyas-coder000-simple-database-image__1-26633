@@ -1,0 +1,9 @@
+This code demonstrates a simple way to save Images (or any binary 
+data for that matter) into a database...
+I would like to receive all kinds of comments and suggestions 
+so, please give the same...
+
+I assume that you have made an Access DataBase named: pic.mdb 
+in the folder where you extract these files, This database must have 
+a table named - Table1 and this table must have a field - img 
+of datatype OLE Object
